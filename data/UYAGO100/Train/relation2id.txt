@@ -1,0 +1,16 @@
+15	
+<isLocatedIn>	0
+<isAffiliatedTo>	1
+<playsFor>	2
+<wasBornIn>	3
+<created>	4
+<actedIn>	5
+<hasChild>	6
+<isConnectedTo>	7
+<directed>	8
+<isMarriedTo>	9
+<livesIn>	10
+<wroteMusicFor>	11
+<influences>	12
+<hasOfficialLanguage>	13
+<isInterestedIn>	14
